@@ -1,0 +1,10 @@
+print("Soma: ",10+10)
+print("Subtração: ", 10-10)
+print("Multiplicação: ", 10*5)
+print("Divisão: ", 10/3)
+print("Divisão com arredondamento: ", 10//3)
+print("Um numero elevado a outro: ", 3**3)
+print("Resto da divisão: ", 10%5)
+print("Prioridade: ", (10+10)*4+6)
+
+print(10 * 'A ')
